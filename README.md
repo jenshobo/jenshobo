@@ -4,6 +4,4 @@
 
 I finally made my portfolio website, no more using Wix: <a href="https://jenshobo.github.io/index.html">jenshobo.github.io</a>
 
-<h1>
-    welcome
-</h1>
+<h1 align="center"> welcome </h1>
