@@ -13,13 +13,20 @@
 <br>
 <div id="Content">
   <h1>About me</h1>
+  
   - 👨‍💼 I'm a software engineering student<br>
+  
   - 🏫 Currently in my second year of HBO and I have a MBO degree in game development<br>
+  
   - 🥇 My favourite language is C#<br>
+  
   
   ## My, supposedly, favorite languages
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jenshobo&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+  ## My other stats
+  ![](https://github-readme-stats.vercel.app/api?username=jenshobo&theme=dark&hide_border=true&include_all_commits=true&count_private=true)|![](https://github-readme-streak-stats.herokuapp.com/?user=jenshobo&theme=dark&hide_border=true&mode=weekly)
+:-------------------------:|:-------------------------:
   
   ## My portfolio
   <img src="https://morbotron.com/video/S06E01/ohF6aYeOQ-TZfnqyLAT8lVHgcc4=.gif" alt="GIF"> | I finally made my portfolio website, no more using Wix: <a href="https://jenshobo.github.io/index.html">jenshobo.github.io</a><br>I'm a Dutch game developer and software engineer student (as of writing this) <br>To see my work I recommend taking a look at <a href="https://jenshobo.github.io/Extra/Work.html">my portfolio website</a><br>You can contact me trough my gmail: <a data-auto-recognition="true" href="mailto:jenshobo@gmail.com">jenshobo@gmail.com</a>
