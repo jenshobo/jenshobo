@@ -16,7 +16,7 @@
   
   - 👨‍💼 I'm a software engineering student<br>
   
-  - 🏫 Currently in my second year of HBO and I have a MBO degree in game development<br>
+  - 🏫 Currently in my third year of HBO and I have a MBO degree in game development<br>
   
   - 🥇 My favourite language is C#<br>
   
