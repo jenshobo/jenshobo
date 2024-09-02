@@ -14,14 +14,14 @@
 <div id="Content">
   <h1>About me</h1>
   
-  - 👨‍💼 I'm a software engineering student<br>
+  - 👨‍💼 I'm a software engineering / embedded system design and automation student<br>
   
-  - 🏫 Currently in my third year of HBO and I have a MBO degree in game development<br>
+  - 🏫 Currently in my forth year of HBO and I have a MBO degree in game development<br>
   
-  - 🥇 My favourite language is C#<br>
+  - 🥇 My favourite language... I really wouldn't know at this point<br>
   
   
-  ## My, supposedly, favorite languages
+  ## My, supposedly, favorite languages, according to public repositories
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jenshobo&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
   ## My other stats
